@@ -1,0 +1,27 @@
+{
+  "name": "@artibox/theme-dark",
+  "version": "0.1.0",
+  "description": "Artibox Theme - Dark",
+  "main": "index.js",
+  "scripts": {
+    "prepublishOnly": "babel src -d lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/React-Artibox/theme-dark.git"
+  },
+  "keywords": [
+    "artibox",
+    "react"
+  ],
+  "author": "Chia Yu Pai (Rytass)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/React-Artibox/theme-dark/issues"
+  },
+  "homepage": "https://github.com/React-Artibox/theme-dark#readme",
+  "peerDependencies": {
+    "@artibox/colors": "^0.1.0"
+  }
+}
