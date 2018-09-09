@@ -9,4 +9,5 @@ Color.addThemeMap('dark', {
   INPUT_BACKGROUND_HOVERED: '#e2e2e2',
   INPUT_BACKGROUND_HOVERED_MASK: 'rgba(0, 0, 0, 0.3)',
   INPUT_BORDER: 'transparent',
+  INPUT_BLOCK_FOCUS_COLOR: '#cbcbcb',
 });
